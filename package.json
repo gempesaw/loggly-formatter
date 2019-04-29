@@ -1,0 +1,21 @@
+{
+  "name": "loggly-formatter",
+  "version": "1.0.0",
+  "description": "CSS tweaks to improve the loggly UI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gempesaw/loggly-formatter.git"
+  },
+  "keywords": [
+    "loggly",
+    "css",
+    "chrome",
+    "extension"
+  ],
+  "author": "Daniel Gempesaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gempesaw/loggly-formatter/issues"
+  },
+  "homepage": "https://github.com/gempesaw/loggly-formatter#readme"
+}
